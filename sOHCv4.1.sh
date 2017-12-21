@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Hash Grinder   by casinoroyal3		# Based on Hashcat Wiki pages and forum http://hashcat.net/forum/thread-277.html
+# Hash Grinder   by casinoroyal3	# Based on Hashcat Wiki pages and forum http://hashcat.net/forum/thread-277.html
 # 
 # Designed for oclHashcat-1.33
 # Date:	2015 may 11
